@@ -1,0 +1,23 @@
+# Disclaimer: This template generator is still very much a WIP. Please recognize that as you may come across bugs.
+
+v1.0 - does not check time, date, etc. for accuracy. Will add this later. I've included an example of the inputs below:
+
+
+Welcome to the hockey GDT generator, please follow the instructions on the screen.
+
+NOTE: All input will show up *exactly* as typed in. Please be careful. You can always run it again if you want.
+--------------------------------------------------------
+Home team: Buffalo Sabres
+Away team: Dallas Stars
+Local time: 1:00 PM
+Time zone (use ET/CT/MT/PT): ET
+Date (MM/DD/YYYY): 01/16/2017
+Home subreddit: /r/sabres
+Away subreddit: /r/Dallas_Stars
+
+
+Your template is ready at GDT_20171601.txt
+You still manually have to put in lineups, penalties, shots, and goals
+
+
+
